@@ -1,0 +1,47 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ThreadTestDrive",
+            "request": "launch",
+            "mainClass": "ThreadTestDrive",
+            "projectName": "hfjava_33db182"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - QuizCardBuilder",
+            "request": "launch",
+            "mainClass": "QuizCardBuilder"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Animate",
+            "request": "launch",
+            "mainClass": "Animate"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - InnerButton",
+            "request": "launch",
+            "mainClass": "InnerButton"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SimpleAnimation",
+            "request": "launch",
+            "mainClass": "SimpleAnimation"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Mixed2",
+            "request": "launch",
+            "mainClass": "Mixed2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MultiFor",
+            "request": "launch",
+            "mainClass": "MultiFor"
+        }
+    ]
+}
